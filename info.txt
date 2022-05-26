@@ -1,0 +1,2 @@
+Start crawler
+scrapy crawl fiverr -s JOBDIR=crawls_cache/jobdir-1
